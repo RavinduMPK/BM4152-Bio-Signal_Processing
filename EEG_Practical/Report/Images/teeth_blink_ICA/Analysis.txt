@@ -1,0 +1,16 @@
+IC01 - Eye
+IC02 - Muscle
+IC03 - Eye + Muscle
+IC04 - Muscle
+IC05 - Muscle
+IC06 - Muscle
+IC07 - Muscle
+IC08 - Muscle
+IC09 - Muscle
+IC10 - Brain -------------*
+IC11 - Brain -------------*
+IC12 - Brain + Muscle
+IC13 - Brain -------------*
+IC14 - Muscle
+IC15 - Brain + Muscle
+IC16 - Muscle
