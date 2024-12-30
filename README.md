@@ -72,7 +72,7 @@ This assignment utilizes EEGLAB, an open-source MATLAB toolbox, for multi-channe
 
 ---
 
-**Paper Implementation**
+### **Paper Implementation**
 - The paper implementation task contains in [This repository](https://github.com/RavinduMPK/EEG-signal-classification-using-PCA--ICA--LDA-and-support-vector-machines)
 
 ## Usage
