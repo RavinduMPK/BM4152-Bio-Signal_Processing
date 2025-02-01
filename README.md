@@ -84,8 +84,7 @@ This assignment utilizes EEGLAB, an open-source MATLAB toolbox, for multi-channe
 ### Running the Scripts
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/biosignal-processing.git
-    cd biosignal-processing
+    git clone https://github.com/RavinduMPK/BM4152-Bio-Signal_Processing.git
     ```
 2. Navigate to the desired assignment folder.
 3. Open the MATLAB scripts in MATLAB.
